@@ -51,6 +51,11 @@ h3{
   float:left;
   margin-right:30px;
 }
+.designer{
+  width:25%;
+  float:right;
+  margin-right:30px;
+}
 .bottom-container{
 background-color: #66BFBF;
 padding:20px;
