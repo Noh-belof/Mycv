@@ -1,3 +1,3 @@
 # Mycv
 hello, just a test of jenkins webhook
-version1
+version2
